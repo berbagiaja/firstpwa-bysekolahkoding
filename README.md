@@ -42,7 +42,7 @@ https://www.simicart.com/manifest-generator.html/
 https://app-manifest.firebaseapp.com/ 
 
 **********************************************
-
+Daftar Pustaka
 [1] Belajar Progressive Web App dari Sekolah Koding
 https://www.youtube.com/playlist?list=PLCZlgfAG0GXDsbx5eHX0dFzF2C35THONn
 
