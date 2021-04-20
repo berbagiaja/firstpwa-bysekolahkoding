@@ -23,10 +23,12 @@ offline cookbook
 
 https://web.dev/offline-cookbook/
 
-cache& falling back to network
-cache& network race
-network falling back to cache = (-)kalau internet user lemot baru ke cache
-cache then network
+macam-macam strategi cache 
+1.cache& falling back to network
+2.cache& network race
+3.network falling back to cache = (-)kalau internet user lemot baru ke cache
+4.cache then network
+5.etc
 
 ***************************************************************
 
@@ -58,4 +60,8 @@ https://sekolahkoding.com/kelas/belajar-progressive-web-app-pwa/video/cache-stat
 [3]image gratisan di dapat dari
 
 https://www.freepik.com/free-vector/corporate-logo-designs_4475766.htm#page=1&query=logo&position=3
+
+[4] other source:bitsofco.de
+
+
 
