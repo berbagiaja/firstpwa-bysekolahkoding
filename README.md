@@ -5,6 +5,24 @@ moga bs jadi pelajaran bagi teman-teman dan juga saya, lumayan nyain biar ga typ
 
 myfirstpwa-bysekolahkoding
 
+***************************************************8
+video 6 cache  awal 
+https://developers.google.com/web/fundamentals/primers/service-workers
+
+*************************************************************8
+video 7 jelasin strategi cachingnya aja ga ada praktek sih
+==strategi kita dalam cache websitenya
+offline cookbook
+https://web.dev/offline-cookbook/
+
+cache& falling back to network
+cache& network race
+network falling back to cache = (-)kalau internet user lemot baru ke cache
+cache then network
+
+***************************************************************8
+video 8 implementasi  cache then network lanjutan offline cookbook
+
 
 ******************************************************
 note=video 9
