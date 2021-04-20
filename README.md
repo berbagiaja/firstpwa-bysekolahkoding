@@ -9,6 +9,7 @@ myfirstpwa-bysekolahkoding
 
 
 video 6 cache  awal 
+
 https://developers.google.com/web/fundamentals/primers/service-workers
 
 
@@ -19,6 +20,7 @@ https://developers.google.com/web/fundamentals/primers/service-workers
 video 7 jelasin strategi cachingnya aja ga ada praktek sih
 ==strategi kita dalam cache websitenya
 offline cookbook
+
 https://web.dev/offline-cookbook/
 
 cache& falling back to network
@@ -46,11 +48,14 @@ https://app-manifest.firebaseapp.com/
 **********************************************
 Daftar Pustaka
 [1] Belajar Progressive Web App dari Sekolah Koding
+
 https://www.youtube.com/playlist?list=PLCZlgfAG0GXDsbx5eHX0dFzF2C35THONn
 
 [2]Belajar PWA jg di portal mereka
+
 https://sekolahkoding.com/kelas/belajar-progressive-web-app-pwa/video/cache-statis-di-serviceworker#
 
 [3]image gratisan di dapat dari
+
 https://www.freepik.com/free-vector/corporate-logo-designs_4475766.htm#page=1&query=logo&position=3
 
