@@ -26,7 +26,9 @@ cache& network race
 network falling back to cache = (-)kalau internet user lemot baru ke cache
 cache then network
 
-***************************************************************8
+***************************************************************
+
+
 video 8 implementasi  cache then network lanjutan offline cookbook
 
 
