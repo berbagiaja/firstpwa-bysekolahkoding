@@ -34,29 +34,7 @@ self.addEventListener('fetch', function(event) {
 	console.log(url);
 	
 	//pisahkan request API dan internal
-	if(request=="https://klikfilm.com/tes/pwa4/images/monsta.png"){
-		
-		event.respondWith(
-			//kita taruh dia di cache yg baru 
-			caches.open(CACHE_NAME).then(function(cache){
-				return fetch(request).then(function(liveResponse){
-					cache.put(request,liveResponse.clone()) //di clone biar bs direturn nanti
-					return liveResponse
-				}).catch(function(){
-					return caches.match(request).then(function(response){
-						//kalau berhasil
-						if (response)return response;
-						//kalau gagal
-						return caches.match('fallback.json'); 
-						
-					})
-					
-				});
-			})
-  
-		);
-		
-	}else if(url.origin=== location.origin){
+	if(url.origin=== location.origin){
 		//kalau sama liat cache dulu,kalau ada di cache kita ambil dari cache
 		event.respondWith(
 			 caches.match(event.request).then(function(response) {
